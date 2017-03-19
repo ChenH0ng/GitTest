@@ -1,3 +1,2 @@
 # GitTest
-test
-asd
+ok
